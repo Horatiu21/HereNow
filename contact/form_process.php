@@ -59,7 +59,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           $message_body .=  "$key: $value\n";
       }
 
-      $to = 'horatiupc@gmail.com';
+      $to = 'herenowh@gmail.com';
         $subject = 'Web email';
        if (mail($to, $subject, $message_body)){ 
           $success = "Message sent, thank you for contacting us!";
