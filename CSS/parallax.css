@@ -54,22 +54,22 @@ body, html{
 /*End navbar style*/
 
 .parallax1{
-  background: url('../Images/Nathalie1.jpg');
+  background: url('../Images/Nathalie/Nathalie1.jpg');
   min-height: 100%;
 }
 
 .parallax2{
-  background: url('../Images/Horatiu1.jpg');
+  background: url('../Images/Horatiu/Horatiu1.jpg');
   min-height: 100%;
 }
 
 .parallax3{
-  background-image: url('../Images/Horatiu.png');
+  background-image: url('../Images/Horatiu/Horatiu.png');
   min-height: 60%;
 }
 
 .parallax4{
-  background-image: url('../Images/Nathalie3.jpg');
+  background-image: url('../Images/Nathalie/Nathalie3.jpg');
   min-height: 100%;
 }
 
@@ -173,7 +173,7 @@ section{
     text-align: center;
   }
   .parallax4{
-    background-image: url('../Images/Nathalie.jpg');
+    background-image: url('../Images/Nathalie/Nathalie.jpg');
   }
 }
 
